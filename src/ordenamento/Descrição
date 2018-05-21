@@ -1,0 +1,8 @@
+# AV2_Analise_de_Algoritmos  
+
+O trabalho consiste na leitura de um arquivo .txt e executar um algoritimo escolhido.
+
+Assim que for executado o programa vai aparecer alternativas para qual algoritimo executar.
+
+para a execução do arquivo .txt deve ser inserido caminho do arquivo conforme exemplo a seguir:
+"C:\Projetos/nome.txt"
